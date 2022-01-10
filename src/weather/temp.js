@@ -36,18 +36,18 @@ const getWeatherInfo = async()=> {
             sunset,
 
         }
-        setTempInfo(myNewWeather);
+        
 
         console.log(data);
        setSearchValue("");
     } catch (error) {
         console.log(error);
-        console.log("hdkjsgfds");
+  
        
     }
     finally{
         console.log("finally");
-        flag=false;
+     
     }
 
 

@@ -1,5 +1,5 @@
 
-import './App.css';
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Temp from './weather/temp';
